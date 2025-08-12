@@ -1,0 +1,7 @@
+# Each service listed will be deployed in its own container as part of you 
+# Platform.sh project
+
+
+db:
+    type: postgresql:12
+    disk: 1024
